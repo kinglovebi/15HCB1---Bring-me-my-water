@@ -1,0 +1,224 @@
+<Bodies>
+
+    <Body>
+        <Vertex
+            x="1"
+            y="620" />
+        <Vertex
+            x="150"
+            y="620" />
+        <Vertex
+            x="162"
+            y="633" />
+        <Vertex
+            x="192"
+            y="634" />
+        <Vertex
+            x="202"
+            y="645" />
+        <Vertex
+            x="232"
+            y="643" />
+        <Vertex
+            x="242"
+            y="655" />
+        <Vertex
+            x="272"
+            y="656" />
+        <Vertex
+            x="282"
+            y="664" />
+        <Vertex
+            x="310"
+            y="665" />
+        <Vertex
+            x="322"
+            y="665" />
+        <Vertex
+            x="352"
+            y="665" />
+        <Vertex
+            x="360"
+            y="685" />
+        <Vertex
+            x="393"
+            y="686" />
+        <Vertex
+            x="575"
+            y="735" />
+        <Vertex
+            x="575"
+            y="783" />
+        <Vertex
+            x="563"
+            y="795" />
+        <Vertex
+            x="315"
+            y="795" />
+        <Vertex
+            x="315"
+            y="835" />
+        <Vertex
+            x="135"
+            y="835" />
+        <Vertex
+            x="135"
+            y="885" />
+        <Vertex
+            x="0"
+            y="885" />
+    </Body>
+
+    <Body>
+
+        <Vertex
+            x="383"
+            y="475" />
+        <Vertex
+            x="378"
+            y="483" />
+        <Vertex
+            x="340"
+            y="484" />
+        <Vertex
+            x="327"
+            y="493" />
+        <Vertex
+            x="255"
+            y="494" />
+        <Vertex
+            x="250"
+            y="503" />
+        <Vertex
+            x="220"
+            y="504" />
+        <Vertex
+            x="205"
+            y="520" />
+        <Vertex
+            x="205"
+            y="570" />
+        <Vertex
+            x="215"
+            y="585" />
+        <Vertex
+            x="634"
+            y="585" />
+        <Vertex
+            x="635"
+            y="570" />
+        <Vertex
+            x="645"
+            y="560" />
+        <Vertex
+            x="645"
+            y="520" />
+        <Vertex
+            x="630"
+            y="505" />
+        <Vertex
+            x="600"
+            y="505" />
+        <Vertex
+            x="590"
+            y="490" />
+        <Vertex
+            x="543"
+            y="489" />
+        <Vertex
+            x="530"
+            y="480" />
+        <Vertex
+            x="490"
+            y="479" />
+        <Vertex
+            x="383"
+            y="475" />
+
+    </Body>
+
+    <Body>
+
+        <Vertex
+            x="800"
+            y="570" />
+        <Vertex
+            x="780"
+            y="570" />
+        <Vertex
+            x="762"
+            y="585" />
+        <Vertex
+            x="762"
+            y="745" />
+        <Vertex
+            x="305"
+            y="985" />
+        <Vertex
+            x="305"
+            y="1030" />
+        <Vertex
+            x="275"
+            y="1045" />
+        <Vertex
+            x="275"
+            y="1115" />
+        <Vertex
+            x="240"
+            y="1125" />
+        <Vertex
+            x="225"
+            y="1140" />
+        <Vertex
+            x="225"
+            y="1200" />
+        <Vertex
+            x="180"
+            y="1200" />
+        <Vertex
+            x="180"
+            y="1155" />
+        <Vertex
+            x="170"
+            y="1145" />
+        <Vertex
+            x="145"
+            y="1135" />
+        <Vertex
+            x="145"
+            y="1065" />
+        <Vertex
+            x="130"
+            y="1053" />
+        <Vertex
+            x="30"
+            y="1052" />
+        <Vertex
+            x="25"
+            y="1045" />
+        <Vertex
+            x="25"
+            y="1010" />
+        <Vertex
+            x="15"
+            y="995" />
+        <Vertex
+            x="0"
+            y="995" />
+    </Body>
+
+    <Body>
+        <Vertex
+            x="480"
+            y="1125" />
+        <Vertex
+            x="555"
+            y="1200" />
+        <Vertex
+            x="700"
+            y="1200" />
+        <Vertex
+            x="730"
+            y="1125" />
+    </Body>
+</Bodies>

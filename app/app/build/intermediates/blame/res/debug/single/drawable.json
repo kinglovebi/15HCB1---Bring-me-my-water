@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\Android\\Main\\trunk\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnresume.png",
+        "source": "E:\\Android\\Main\\trunk\\app\\app\\src\\main\\res\\drawable\\btnresume.png"
+    },
+    {
+        "merged": "E:\\Android\\Main\\trunk\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnmenu_press.png",
+        "source": "E:\\Android\\Main\\trunk\\app\\app\\src\\main\\res\\drawable\\btnmenu_press.png"
+    },
+    {
+        "merged": "E:\\Android\\Main\\trunk\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnlevels_press.png",
+        "source": "E:\\Android\\Main\\trunk\\app\\app\\src\\main\\res\\drawable\\btnlevels_press.png"
+    },
+    {
+        "merged": "E:\\Android\\Main\\trunk\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_levels.xml",
+        "source": "E:\\Android\\Main\\trunk\\app\\app\\src\\main\\res\\drawable\\btn_levels.xml"
+    },
+    {
+        "merged": "E:\\Android\\Main\\trunk\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnlevels.png",
+        "source": "E:\\Android\\Main\\trunk\\app\\app\\src\\main\\res\\drawable\\btnlevels.png"
+    },
+    {
+        "merged": "E:\\Android\\Main\\trunk\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_wmw.jpg",
+        "source": "E:\\Android\\Main\\trunk\\app\\app\\src\\main\\res\\drawable\\ic_wmw.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Main\\trunk\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnmenu.png",
+        "source": "E:\\Android\\Main\\trunk\\app\\app\\src\\main\\res\\drawable\\btnmenu.png"
+    },
+    {
+        "merged": "E:\\Android\\Main\\trunk\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_resume.xml",
+        "source": "E:\\Android\\Main\\trunk\\app\\app\\src\\main\\res\\drawable\\btn_resume.xml"
+    },
+    {
+        "merged": "E:\\Android\\Main\\trunk\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnresume_press.png",
+        "source": "E:\\Android\\Main\\trunk\\app\\app\\src\\main\\res\\drawable\\btnresume_press.png"
+    },
+    {
+        "merged": "E:\\Android\\Main\\trunk\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_menu.xml",
+        "source": "E:\\Android\\Main\\trunk\\app\\app\\src\\main\\res\\drawable\\btn_menu.xml"
+    }
+]
