@@ -25,7 +25,7 @@ public class Global {
 	/**
 	 * ID Current Scene
 	 */
-	public static int IDScene = 0;
+	public static int IDScene = 0; //huy
 
 	/**
 	 * The number of Ducky have water

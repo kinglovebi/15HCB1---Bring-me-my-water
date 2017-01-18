@@ -107,37 +107,37 @@ public class ResourcesManager {
 	/** The level19 resource. */
 	public Level19Resource _level19Resource;
 
-	/** The level20 resource. */
+	/** The level20 resource. -- Huy --*/
 	public Level20Resource _level20Resource;
 
-	/** The level21 resource. */
+	/** The level21 resource. -- Huy --*/
 	public Level21Resource _level21Resource;
 
-	/** The level22 resource. */
+	/** The level22 resource. -- Huy --*/
 	public Level22Resource _level22Resource;
 
-	/** The level23 resource. */
+	/** The level23 resource. -- Huy --*/
 	public Level23Resource _level23Resource;
 
-	/** The level24 resource. */
+	/** The level24 resource. -- Huy --*/
 	public Level24Resource _level24Resource;
 	
-	/** The level25 resource. */
+	/** The level25 resource. -- Huy --*/
 	public Level25Resource _level25Resource;
 
-	/** The level26 resource. */
+	/** The level26 resource. -- Huy --*/
 	public Level26Resource _level26Resource;
 
-	/** The level27 resource. */
+	/** The level27 resource. -- Huy --*/
 	public Level27Resource _level27Resource;
 
-	/** The level28 resource. */
+	/** The level28 resource. -- Huy --*/
 	public Level28Resource _level28Resource;
 
-	/** The level29 resource. */
+	/** The level29 resource. -- Huy --*/
 	public Level29Resource _level29Resource;
 
-	/** The level30 resource. */
+	/** The level30 resource. -- Huy --*/
 	public Level30Resource _level30Resource;
 
 	/** The select level resource. */
