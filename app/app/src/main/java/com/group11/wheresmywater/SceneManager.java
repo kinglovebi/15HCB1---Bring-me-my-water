@@ -227,8 +227,8 @@ public class SceneManager {
 		getInstance().listGameScene.add(new Level20(1)); //huy
 		getInstance().listGameScene.add(new Level21(1)); //huy
 		getInstance().listGameScene.add(new Level22(1)); //huy
-		getInstance().listGameScene.add(new Level23(1));
-		getInstance().listGameScene.add(new Level24(1));
+		getInstance().listGameScene.add(new Level23(1)); //huy
+		getInstance().listGameScene.add(new Level24(1)); //huy
 		
 		getInstance().listGameScene.add(new Level25(1));
 		getInstance().listGameScene.add(new Level26(1));

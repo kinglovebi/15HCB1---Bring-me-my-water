@@ -37,7 +37,7 @@ public class Global {
 	 */
 	public static final int nScene = 10;
 
-	public static final int sMenuScene = 3;
+	public static final int sMenuScene = 3; // Huy them man choi tong
 
 	/**
 	 * @author Thanh Quang

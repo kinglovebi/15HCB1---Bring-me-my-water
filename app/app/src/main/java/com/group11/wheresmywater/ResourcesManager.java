@@ -119,7 +119,7 @@ public class ResourcesManager {
 	/** The level23 resource. -- Huy --*/
 	public Level23Resource _level23Resource;
 
-	/** The level24 resource. -- Huy --*/
+	/** The level24 resource. -- Huy -- */
 	public Level24Resource _level24Resource;
 	
 	/** The level25 resource. -- Huy --*/

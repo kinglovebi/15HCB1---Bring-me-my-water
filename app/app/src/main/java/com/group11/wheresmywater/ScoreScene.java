@@ -315,7 +315,7 @@ public class ScoreScene extends BaseScene implements IOnMenuItemClickListener {
 			SceneManager.getInstance().loadGameSceneReplay(_engine);
 			isDirect = true;
 			break;
-		case LEVEL_MENU:
+		case LEVEL_MENU: // Huy setup cac man choi duoc xuat hien theo dung quy tac
 			if(Global.IDScene <=9){
 				SceneManager.getInstance().loadSelectLevelScene(_engine);
 				isDirect = true;
