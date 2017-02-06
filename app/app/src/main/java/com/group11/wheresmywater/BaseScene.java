@@ -20,7 +20,7 @@ public abstract class BaseScene extends Scene {
 	//---------------------------------------------
 
 	/**
-	 * Engine.
+	 * Engine
 	 */
 	protected Engine _engine;
 	/**

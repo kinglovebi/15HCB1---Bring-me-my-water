@@ -1,5 +1,5 @@
 /*
- * File: ScoreSceneResource.java.
+ * File: ScoreSceneResource.java
  */
 package com.group14.wheresmywater;
 

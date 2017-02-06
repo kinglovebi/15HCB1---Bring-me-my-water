@@ -1,5 +1,5 @@
 /**
- * File: SplashSceneResouce.java.
+ * File: SplashSceneResouce.java
  */
 package com.group14.wheresmywater;
 

@@ -1,5 +1,5 @@
 /*
- * File: SelectLevelScene.java.
+ * File: SelectLevelScene.java
  */
 package com.group14.wheresmywater;
 

@@ -19,7 +19,7 @@ public class LoadingSceneResource {
 	public Font _font;
 
 	/**
-	 * Load.
+	 * Load
 	 */
 	public void load() {
 		loadGraphic();

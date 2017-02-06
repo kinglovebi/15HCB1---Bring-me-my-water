@@ -7,7 +7,7 @@ import org.andengine.util.color.Color;
 import com.group14.wheresmywater.SceneManager.SceneType;
 
 /**
- * The Class LoadingScene.
+ * The Class LoadingScene
  */
 public class LoadingScene extends BaseScene {
 	/** The _resource. */

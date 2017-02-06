@@ -12,7 +12,7 @@ import org.andengine.opengl.texture.region.TextureRegion;
 import org.andengine.opengl.texture.region.TiledTextureRegion;
 
 /**
- * The Class MainMenuSceneResource.
+ * The Class MainMenuSceneResource
  */
 public class MainMenuSceneResource {
 

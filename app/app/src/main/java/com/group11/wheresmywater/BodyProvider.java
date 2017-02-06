@@ -65,11 +65,7 @@ public class BodyProvider {
 		}
 	}
 
-	/**
-	 * @author Thanh Quang
-	 * @param item : element
-	 * @return listVectex
-	 */
+	
 	private static ArrayList<Vector2> getListVertex(final Element item) {
 		// TODO Auto-generated method stub
 		ArrayList<Vector2> list = new ArrayList<Vector2>();

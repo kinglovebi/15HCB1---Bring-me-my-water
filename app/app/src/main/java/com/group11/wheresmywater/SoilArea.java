@@ -1,6 +1,4 @@
-/**
- * @author HHS
- */
+﻿
 package com.group14.wheresmywater;
 
 import static org.andengine.extension.physics.box2d.util.constants.PhysicsConstants.PIXEL_TO_METER_RATIO_DEFAULT;

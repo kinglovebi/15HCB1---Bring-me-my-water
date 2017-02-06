@@ -37,7 +37,7 @@ public class GameActivity extends BaseGameActivity implements OnClickListener {
 	public Font mFont;
 
 	/**
-	 * Camera
+	 * Camera.
 	 */
 	public SmoothCamera mCamera;
 

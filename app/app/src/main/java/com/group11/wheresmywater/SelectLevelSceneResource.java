@@ -1,5 +1,5 @@
 /*
- * File SelectLevelSceneResource.java.
+ * File SelectLevelSceneResource.java
  */
 package com.group14.wheresmywater;
 

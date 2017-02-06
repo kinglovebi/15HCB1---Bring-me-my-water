@@ -22,7 +22,7 @@ import android.os.Environment;
 import com.group14.wheresmywater.SceneManager.SceneType;
 
 /**
- * The Class MainMenuScene.
+ * The Class MainMenuScene
  */
 public class MainMenuScene extends BaseScene implements
 		IOnMenuItemClickListener {

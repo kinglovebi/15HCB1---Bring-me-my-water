@@ -5,7 +5,7 @@ import org.andengine.opengl.texture.region.ITextureRegion;
 import org.andengine.opengl.vbo.VertexBufferObjectManager;
 
 /**
- * The Class Radio.
+ * The Class Radio
  */
 public class Radio extends Sprite {
 

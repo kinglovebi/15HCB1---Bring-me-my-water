@@ -10,7 +10,7 @@ public class Soil extends Sprite{
 			ITextureRegion pTextureRegion,
 			ISpriteVertexBufferObject pSpriteVertexBufferObject) {
 		super(pX, pY, pWidth, pHeight, pTextureRegion, pSpriteVertexBufferObject);
-		// TODO Auto-generated constructor stub
+		
 	}
  
 	@Override
